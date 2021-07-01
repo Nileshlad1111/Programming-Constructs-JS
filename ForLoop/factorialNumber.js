@@ -2,7 +2,7 @@
 
 const prompt = require('prompt-sync')();
 
-let number = Number(prompt("Enter a number : "));
+let number = Number(prompt("Enter the number : "));
 
 let factorial = 1;
 
